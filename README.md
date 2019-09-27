@@ -1,1 +1,1 @@
-Small express API for managing videos.
+Small express API.
